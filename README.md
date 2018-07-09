@@ -1,3 +1,7 @@
+---
+layout: page
+title: Home
+---
 # jeckyll-test
 
 ## Heading two

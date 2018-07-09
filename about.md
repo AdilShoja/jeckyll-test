@@ -1,7 +1,10 @@
 ---
-layout: page
+
 title: About
+layout: page
+
 ---
+
 # jeckyll-test
 
 ## Heading two

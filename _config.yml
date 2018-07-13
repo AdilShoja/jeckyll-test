@@ -1,6 +1,8 @@
 # basic options
 title: My Site
 description: A wonderful site
+author: me
+email: birb
 twitter_username: jekyllrb
 github_username: jekyll
 
